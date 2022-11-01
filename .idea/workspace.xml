@@ -43,7 +43,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="アプリケーション.kadai4">
+  <component name="RunManager" selected="アプリケーション.kadai5">
     <configuration name="kadai1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lecture01.kadai1" />
       <module name="Prmn2022a" />
@@ -96,8 +96,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="kadai5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture01.kadai5" />
+      <module name="Prmn2022a" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.kadai5" />
         <item itemvalue="アプリケーション.kadai4" />
         <item itemvalue="アプリケーション.kadai3" />
         <item itemvalue="アプリケーション.kadai2" />
@@ -114,7 +128,8 @@
       <option name="presentableId" value="Default" />
       <updated>1667206169595</updated>
       <workItem from="1667206172011" duration="1675000" />
-      <workItem from="1667260652932" duration="859000" />
+      <workItem from="1667260652932" duration="2649000" />
+      <workItem from="1667265200970" duration="2275000" />
     </task>
     <servers />
   </component>
