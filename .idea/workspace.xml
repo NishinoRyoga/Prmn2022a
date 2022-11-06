@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfdee90-e45a-4d03-9b0d-be09380c55e9" name="変更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture02/Excise2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture02/Excise2_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,25 +32,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/nishi/IdeaProjects/Prmn2022a",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
-  <component name="RunManager" selected="アプリケーション.kadai5">
-    <configuration name="kadai1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture01.kadai1" />
+}]]></component>
+  <component name="RunManager" selected="アプリケーション.Excise2_1">
+    <configuration name="Excise2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture02.Excise2_1" />
       <module name="Prmn2022a" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture01.*" />
+          <option name="PATTERN" value="lecture02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.Excise2_1" />
         <item itemvalue="アプリケーション.kadai5" />
         <item itemvalue="アプリケーション.kadai4" />
         <item itemvalue="アプリケーション.kadai3" />
         <item itemvalue="アプリケーション.kadai2" />
-        <item itemvalue="アプリケーション.kadai1" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +131,10 @@
       <updated>1667206169595</updated>
       <workItem from="1667206172011" duration="1675000" />
       <workItem from="1667260652932" duration="2649000" />
-      <workItem from="1667265200970" duration="2275000" />
+      <workItem from="1667265200970" duration="2318000" />
+      <workItem from="1667281415960" duration="12000" />
+      <workItem from="1667281444792" duration="65000" />
+      <workItem from="1667719611526" duration="2983000" />
     </task>
     <servers />
   </component>
