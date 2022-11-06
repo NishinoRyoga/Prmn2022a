@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbfdee90-e45a-4d03-9b0d-be09380c55e9" name="変更" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture02/Excise2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture02/Excise2_1.java" afterDir="false" />
-    </list>
+    <list default="true" id="cbfdee90-e45a-4d03-9b0d-be09380c55e9" name="変更" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +22,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2GtS0jiBmtgyeo44EvwuIdqCUp9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -45,7 +45,7 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="アプリケーション.Excise2_1">
+  <component name="RunManager" selected="アプリケーション.Excise2_2">
     <configuration name="Excise2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lecture02.Excise2_1" />
       <module name="Prmn2022a" />
@@ -59,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="kadai2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture01.kadai2" />
+    <configuration name="Excise2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture02.Excise2_2" />
       <module name="Prmn2022a" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture01.*" />
+          <option name="PATTERN" value="lecture02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.Excise2_2" />
         <item itemvalue="アプリケーション.Excise2_1" />
         <item itemvalue="アプリケーション.kadai5" />
         <item itemvalue="アプリケーション.kadai4" />
         <item itemvalue="アプリケーション.kadai3" />
-        <item itemvalue="アプリケーション.kadai2" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +134,7 @@
       <workItem from="1667265200970" duration="2318000" />
       <workItem from="1667281415960" duration="12000" />
       <workItem from="1667281444792" duration="65000" />
-      <workItem from="1667719611526" duration="2983000" />
+      <workItem from="1667719611526" duration="4667000" />
     </task>
     <servers />
   </component>
