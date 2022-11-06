@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbfdee90-e45a-4d03-9b0d-be09380c55e9" name="変更" comment="" />
+    <list default="true" id="cbfdee90-e45a-4d03-9b0d-be09380c55e9" name="変更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture02/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture02/Car.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +48,7 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="アプリケーション.Excise2_2">
+  <component name="RunManager" selected="アプリケーション.Excise2_1">
     <configuration name="Excise2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lecture02.Excise2_1" />
       <module name="Prmn2022a" />
@@ -113,8 +116,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="アプリケーション.Excise2_2" />
         <item itemvalue="アプリケーション.Excise2_1" />
+        <item itemvalue="アプリケーション.Excise2_2" />
         <item itemvalue="アプリケーション.kadai5" />
         <item itemvalue="アプリケーション.kadai4" />
         <item itemvalue="アプリケーション.kadai3" />
@@ -134,7 +137,7 @@
       <workItem from="1667265200970" duration="2318000" />
       <workItem from="1667281415960" duration="12000" />
       <workItem from="1667281444792" duration="65000" />
-      <workItem from="1667719611526" duration="4667000" />
+      <workItem from="1667719611526" duration="10333000" />
     </task>
     <servers />
   </component>

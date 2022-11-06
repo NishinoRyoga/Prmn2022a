@@ -1,6 +1,11 @@
 package lecture02;
 
 public class Car {
+    Tire[] tires = {
+            new Tire(),new Tire(),new Tire(),new Tire()
+    };
+    Engine engine = new Engine();
+
     int fuel;
 
     Car(){
