@@ -8,7 +8,7 @@ public class Car {
 
     int fuel;
 
-    Car(){
+    Car(Tire[] tires,Engine engine) {
         this.fuel = 0;
     }
 
@@ -19,5 +19,9 @@ public class Car {
         else{
             System.out.println("燃料が足りないため走れませんでした。");
         }
+    }
+
+    void startEngine(){
+        engine.start();
     }
 }
