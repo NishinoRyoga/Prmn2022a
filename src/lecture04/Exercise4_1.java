@@ -7,14 +7,14 @@ public class Exercise4_1 {
 
         while(F1.isAlive() || F2.isAlive()){
             F1.attack(F2);
+            if(!F2.isAlive()){
+                System.out.println(F2.getName() + " は倒れた。");
+                break;
+            }
             F2.attack(F1);
-        }
-
-        if(!F1.isAlive()){
-            System.out.println(F1.getName() + " は倒れた。");
-        }
-        if(!F2.isAlive()){
-            System.out.println(F2.getName() + " は倒れた。");
+            if(!F1.isAlive()){
+                System.out.println(F1.getName() + " は倒れた。");
+            }
         }
     }
 }
