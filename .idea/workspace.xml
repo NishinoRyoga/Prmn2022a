@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfdee90-e45a-4d03-9b0d-be09380c55e9" name="変更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture04/ATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture04/ATM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture04/Exercise4_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture04/Exercise4_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,19 +34,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/nishi/IdeaProjects/Prmn2022a&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/nishi/IdeaProjects/JavaProg",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="アプリケーション.Exercise4_2">
     <configuration name="Exercise3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lecture03.Exercise3_2" />
@@ -147,7 +145,12 @@
       <workItem from="1668571579834" duration="557000" />
       <workItem from="1668577094795" duration="542000" />
       <workItem from="1668841982240" duration="2160000" />
-      <workItem from="1668929455145" duration="6645000" />
+      <workItem from="1668929455145" duration="6742000" />
+      <workItem from="1669016356702" duration="1886000" />
+      <workItem from="1669093965894" duration="50000" />
+      <workItem from="1669102687606" duration="411000" />
+      <workItem from="1669679776987" duration="4000" />
+      <workItem from="1669679979769" duration="33000" />
     </task>
     <servers />
   </component>
